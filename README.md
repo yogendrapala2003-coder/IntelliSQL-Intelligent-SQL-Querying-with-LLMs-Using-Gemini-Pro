@@ -1,0 +1,2 @@
+# IntelliSQL-Intelligent-SQL-Querying-with-LLMs-Using-Gemini-Pro
+IntelliSQL is an AI-powered full-stack web application designed to simplify database querying by converting natural language questions into accurate and optimized SQL queries using Gemini Pro (Large Language Model). The system enables both technical and non-technical users to interact with relational databases without requiring in-depth knowledge
